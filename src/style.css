@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+
+.carousel-image-1 {
+    height: 400px;
+    object-position: center 75%;
+    object-fit: cover;
+}
+
+.carousel-image-2 {
+    height: 400px;
+    object-position: center 60%;
+    object-fit: cover;
+}
+
+.cursive-font {
+    font-family: 'Sniglet', cursive;
+}
