@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
 
+.card-size {
+    max-width: 18rem;
+}
+
+.card {
+    padding: 0px;
+}
+
+.card-image {
+    height: 200px;
+    object-fit: cover;
+}
+
 .carousel-image-1 {
     height: 400px;
     object-position: center 75%;
@@ -18,4 +31,19 @@
 
 .focus-color {
     color: darkred;
+}
+
+.btn-special {
+    background-color: darkred;
+    color: white;
+    font-weight: 600;
+}
+
+.btn-special:hover {
+    background-color: #b81313;
+    color: white;
+}
+
+.special-border {
+    border-color: darkred;
 }
