@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
 
+.logomarca {
+    text-decoration: none;
+    color: darkred;
+    font-size: 1.5rem;
+}
+
+
+.logomarca:hover {
+    color: darkred;
+}
+
 .card-size {
     max-width: 18rem;
 }
