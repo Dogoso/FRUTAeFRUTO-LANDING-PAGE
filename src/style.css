@@ -15,3 +15,7 @@
 .cursive-font {
     font-family: 'Sniglet', cursive;
 }
+
+.focus-color {
+    color: darkred;
+}
