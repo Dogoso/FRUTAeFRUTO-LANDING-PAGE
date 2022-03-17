@@ -7,4 +7,4 @@ Ainda em desenvolvimento.
 Site criado como projeto do curso de Bootstrap da ALURA (Bootstrap 4: criando uma landing page responsiva).
 
 ## Acesso 🔗
-https://dogoso.github.io/fruta-e-fruto-lading-page/
+https://dogoso.github.io/FRUTAeFRUTO-LANDING-PAGE/
