@@ -2,13 +2,24 @@
 
 .logomarca {
     text-decoration: none;
-    color: darkred;
+    color: darkred !important;
     font-size: 1.5rem;
 }
 
-
 .logomarca:hover {
+    color: darkred !important;
+}
+
+.email-text {
+    font-weight: 700;
+}
+
+.email-link {
     color: darkred;
+}
+
+.email-link:hover {
+    color: #b81313;
 }
 
 .card-size {
@@ -57,4 +68,8 @@
 
 .special-border {
     border-color: darkred;
+}
+
+.contato-title {
+    font-size: 1.5rem;
 }
